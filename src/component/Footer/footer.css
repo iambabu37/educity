@@ -1,0 +1,16 @@
+.footer{
+    color:black;
+    text-align: center;
+
+}
+.footer p{
+    margin-top: 20px;
+}
+.footer ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+    margin-bottom: 20px;
+}
